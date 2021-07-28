@@ -1,0 +1,7 @@
+{
+    "database" : {
+        "user" : "hclab",
+        "pass" : "hclab",
+        "host" : "localhost/hclab"
+    }
+}
